@@ -15,7 +15,7 @@ A la fin de ce cours, vous aurez acquis les compétences principales suivantes:
 - Emettre des hypothèses scientifiques sur des jeux de données. Cette compétence se traduit par une manière systématique d'aborder un problème métier et de le reformuler à l'aide d'une hypothèse statistique.
 - Utiliser des tests statistiques appropriés pour infirmer ou confirmer les hypothèses. Comprendre le concept de base de l'inférence statistiques ainsi que manier les tests statistiques classiques.
 
-## DESIGN PÉDAGOGIQUE
+## Design Pédagogique
 Vous aurez la tâche de lire des parties théoriques en dehors des heures de cours avant les présentiels. Les cours seront divisé en deux parties: une partie théorique et une partie pratique.
 
 Pour la partie théorique, nous allons nous baser essentiellement sur le livre de Bluman (2018). Pour la partie pratique, nous allons appliquer les concepts théoriques sur des cas métiers et des données concrètes en Python. 
